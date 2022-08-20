@@ -9,7 +9,7 @@
 
 内容
 
-- 敏感词：Tire数、AC自动机
+- 敏感词：Tire树、AC自动机
 - 分类、embedding、语言模型
 - fastText
 - BERT
